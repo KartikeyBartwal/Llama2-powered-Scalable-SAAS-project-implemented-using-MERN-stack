@@ -1,0 +1,21 @@
+{
+    "compilerOptions" : {
+        "module" : "NodeNext" , 
+        "moduleResolution" : "NodeNext" ,
+        "target" : "ES2022" , 
+        "sourceMap" : true , 
+        "outDir" : {
+            "compilerOptions" : {
+                "module" : "NodeNext" , 
+                "moduleResolution" : "NodeNext" ,
+                "target" : "ES2022" , 
+                "sourceMap" : true , 
+                "outDir" : "D:\\Projects\\AI SAAS Project Full Stack\\dist" , 
+                "allowSyntheticDefaultImports" : true 
+            }, 
+            "Include" : ["src/**/*.ts" , "src/index.ts"]
+        }, 
+        "allowSyntheticDefaultImports" : true 
+    }, 
+    "Include" : ["src/**/*.ts" , "src/index.ts"]
+}
